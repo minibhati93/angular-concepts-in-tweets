@@ -1,4 +1,4 @@
-# Angular Concepts
+# Angular Concepts from Beginner to Advanced
 
 This is the collection of my blog articles on various concepts of Angular
 
