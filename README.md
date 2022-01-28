@@ -4,6 +4,7 @@ This is the collection of my blog articles on various concepts of Angular
 
 | Topic                          | Tweet                                                                                     | Working Example |
 |--------------------------------|-------------------------------------------------------------------------------------------|-----------------|
+| Multi Slot Content Projection  | https://twitter.com/devminibhati/status/1487041168667856897?s=20&t=zwSX6TdtqDj7cuEeOpBcVQ | https://codesandbox.io/s/multi-content-projection-v1-zdk9r |
 | Single Slot Content Projection | https://twitter.com/devminibhati/status/1486558532895862790?s=20&t=luHpTBS_hXp8gUrRRDjwGw | https://codesandbox.io/s/single-slot-content-projection-v1-zzwy6  | 
 | Lazy Loaded Modules            | https://twitter.com/devminibhati/status/1485892674783956994?s=20&t=luHpTBS_hXp8gUrRRDjwGw | https://codesandbox.io/s/lazy-load-route-v99h0 |
 | Named Router Outlet            | https://twitter.com/devminibhati/status/1485193154144108547?s=20&t=luHpTBS_hXp8gUrRRDjwGw | https://codesandbox.io/s/proud-water-7f8gf |
