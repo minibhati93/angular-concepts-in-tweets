@@ -1,6 +1,6 @@
 # Angular Concepts from Beginner to Advanced
 
-This is the collection of my blog articles on various concepts of Angular
+This is the collection of my tweets on various concepts of Angular
 
 | Feature             | Tweet                                                                                     | Working Example |
 |---------------------|-------------------------------------------------------------------------------------------|-----------------|
