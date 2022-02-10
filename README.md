@@ -37,7 +37,7 @@ This is the collection of my tweets on various concepts of Angular
 | CanDeactivate   | https://twitter.com/devminibhati/status/1491090621666566151?s=20&t=SfRjvlyMhrtP_COvIz8L1g | https://codesandbox.io/s/can-deactivate-v1-p7nc8 | 
 | CanLoad         | https://twitter.com/devminibhati/status/1490702400520605696?s=20&t=SfRjvlyMhrtP_COvIz8L1g | https://codesandbox.io/s/can-load-v1-vf2ek     |
 | CanActivate     | https://twitter.com/devminibhati/status/1488878437167104002?s=20&t=SfRjvlyMhrtP_COvIz8L1g | https://codesandbox.io/s/can-activate-v1-xdfse |
-| Resolve         | | |
+| Resolve         | https://twitter.com/devminibhati/status/1491817200365477888?s=20&t=LXCFzSHeGkqn0COR4-feNw | https://codesandbox.io/s/resolve-v1-b6gd1 | 
 
 ---------------
 ### List of Decorators
