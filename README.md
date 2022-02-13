@@ -9,6 +9,7 @@ This is the collection of my tweets on various concepts of Angular
 | trackBy             | https://twitter.com/devminibhati/status/1483060615841464322?s=20&t=luHpTBS_hXp8gUrRRDjwGw | https://codesandbox.io/s/dp8v5
 | KeyValuePipe        | https://twitter.com/devminibhati/status/1480728670679404548?s=20&t=luHpTBS_hXp8gUrRRDjwGw
 | ng-container        | https://twitter.com/devminibhati/status/1480827320508325893?s=20&t=luHpTBS_hXp8gUrRRDjwGw
+| @ViewChild          | https://twitter.com/devminibhati/status/1492896524938129410?s=20&t=LlYEwUKaH8zGcsEE8JWZuw | https://codesandbox.io/s/viewchild-v1-b1k5q
 
 --------------
 ### Routing
