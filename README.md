@@ -10,6 +10,7 @@ This is the collection of my tweets on various concepts of Angular
 | KeyValuePipe        | https://twitter.com/devminibhati/status/1480728670679404548?s=20&t=luHpTBS_hXp8gUrRRDjwGw
 | ng-container        | https://twitter.com/devminibhati/status/1480827320508325893?s=20&t=luHpTBS_hXp8gUrRRDjwGw
 | @ViewChild          | https://twitter.com/devminibhati/status/1492896524938129410?s=20&t=LlYEwUKaH8zGcsEE8JWZuw | https://codesandbox.io/s/viewchild-v1-b1k5q
+| Async Pipe          | https://twitter.com/devminibhati/status/1501979254405607426?s=20&t=W1w93Yo6QproOxPgYpJXCQ | https://codesandbox.io/s/async-pipe-v1-w23oub
 
 --------------
 ### Routing
