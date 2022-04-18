@@ -13,7 +13,7 @@ This is the collection of my tweets on various concepts of Angular
 | Async Pipe          | https://twitter.com/devminibhati/status/1501979254405607426?s=20&t=W1w93Yo6QproOxPgYpJXCQ | https://codesandbox.io/s/async-pipe-v1-w23oub
 
 --------------
-### Routing
+## Routing
 | Feature            | Tweet                                                                                     | Working Example|
 |--------------------|-------------------------------------------------------------------------------------------|----------------|
 | skipLocationChange | https://twitter.com/devminibhati/status/1481966522545614848?s=20&t=luHpTBS_hXp8gUrRRDjwGw | https://angular.io/api/router/NavigationExtras
@@ -22,7 +22,7 @@ This is the collection of my tweets on various concepts of Angular
 
 --------------
 
-### Content Projection
+## Content Projection
 | Feature                        | Tweet                                                                                     | Working Example|
 |--------------------------------|-------------------------------------------------------------------------------------------|----------------|
 | Multi Slot Content Projection  | https://twitter.com/devminibhati/status/1487041168667856897?s=20&t=zwSX6TdtqDj7cuEeOpBcVQ | https://codesandbox.io/s/multi-content-projection-v1-zdk9r |
@@ -31,10 +31,10 @@ This is the collection of my tweets on various concepts of Angular
 | Conditional Rendering          |
 
 --------------
-### Route Guards
+## Route Guards
 
-| Feature         | Tweet                                                                                     | Working Example                               |
-|-----------------|-------------------------------------------------------------------------------------------|-----------------------------------------------|
+| Feature         | Tweet                                                                                     | Working Example                         |
+|-----------------|-------------------------------------------------------------------------------------------|-----------------------------------------|
 | CanActivateChild| https://twitter.com/devminibhati/status/1491491397735972864?s=20&t=SfRjvlyMhrtP_COvIz8L1g | https://codesandbox.io/s/can-activate-child-v1-w26ri 
 | CanDeactivate   | https://twitter.com/devminibhati/status/1491090621666566151?s=20&t=SfRjvlyMhrtP_COvIz8L1g | https://codesandbox.io/s/can-deactivate-v1-p7nc8 | 
 | CanLoad         | https://twitter.com/devminibhati/status/1490702400520605696?s=20&t=SfRjvlyMhrtP_COvIz8L1g | https://codesandbox.io/s/can-load-v1-vf2ek     |
@@ -42,7 +42,7 @@ This is the collection of my tweets on various concepts of Angular
 | Resolve         | https://twitter.com/devminibhati/status/1491817200365477888?s=20&t=LXCFzSHeGkqn0COR4-feNw | https://codesandbox.io/s/resolve-v1-b6gd1 | 
 
 ---------------
-### List of Decorators
+## List of Decorators
 | Decorator   | Tweet                    
 |-------------|-----------------------------------------------------------------------------------------
 | @Output     | https://twitter.com/devminibhati/status/1480547491133095937?s=20&t=UhhOthYYyCRrHivoAX-4zA 
@@ -54,8 +54,23 @@ This is the collection of my tweets on various concepts of Angular
 | @Pipe       | https://twitter.com/devminibhati/status/1488119371751129089?s=20&t=UhhOthYYyCRrHivoAX-4zA
 
 --------------
-### Component Styles
+## Component Styles
 
 | Feature            | Tweet                                                                                      
 |--------------------|-------------------------------------------------------------------------------------------
 | host-context       |https://twitter.com/devminibhati/status/1479415304325263360?s=20&t=UhhOthYYyCRrHivoAX-4zA
+
+---------------
+## Angular Pipes
+| Feature       | Tweet                                                                                      
+|---------------|-------------------------------------------------------------------------------------------
+| DatePipe      |
+| CurrencyPipe  |
+| DecimalPipe   |
+| KeyValuePipe  |
+| LowerCasePipe |
+| PercentPipe   |
+| SlicePipe     |
+| AsyncPipe     |
+| Custom Pipe   |
+
