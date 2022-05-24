@@ -65,5 +65,5 @@ This is the collection of my tweets on various concepts of Angular
 |---------------|-------------------------------------------------------------------------------------------|-------------------------------------------|
 | Built-in Pipe | https://twitter.com/devminibhati/status/1516398594668232711?s=20&t=GSphSyFuZGbW1BVzw_zhTw | https://codesandbox.io/s/date-pipe-ti6dfz |
 | Async Pipe    | https://twitter.com/devminibhati/status/1501979254405607426?s=20&t=W1w93Yo6QproOxPgYpJXCQ | https://codesandbox.io/s/async-pipe-v1-w23oub
-| Custom Pipe   |
+| Custom Pipe   | https://twitter.com/devminibhati/status/1529159025190793216?s=20&t=IKySycijfJlYTieISXzoJA | https://codesandbox.io/s/custom-pipe-parameter-hvkvt6 
 
